@@ -1,10 +1,10 @@
 # ExpandableTable
 
-[![License](https://img.shields.io/cocoapods/l/ExpandableTable.svg?style=flat)](http://cocoapods.org/pods/ExpandableTable)
-[![Platform](https://img.shields.io/cocoapods/p/ExpandableTable.svg?style=flat)](http://cocoapods.org/pods/ExpandableTable)
+## Preview
+![overView](ScreenShots/Demo1.png) 
+![overView](ScreenShots/Demo2.png) 
+![overView](ScreenShots/Demo3.png)
 
-
-![overView](ScreenShots/Demo.png)
 
 ## Note
 
