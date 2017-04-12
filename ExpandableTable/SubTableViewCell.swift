@@ -97,11 +97,11 @@ class SubTableViewCell: UITableViewCell,UITableViewDataSource,UITableViewDelegat
          let cell:SubSubTableViewCell = tableView.dequeueReusableCellWithIdentifier("SubSubTableViewCell", forIndexPath: indexPath) as! SubSubTableViewCell
         if indexPath.row == 0 {
             cell.txtLabel.textColor = UIColor.blackColor()
-            cell.backgroundColor = UIColor.greenColor()
+            cell.bgView.backgroundColor = UIColor.greenColor()
             cell.txtLabel?.text = mainHeader[indexPath.row]
         }else{
             cell.txtLabel.textColor = UIColor.whiteColor()
-            cell.backgroundColor = UIColor.darkGrayColor()
+            cell.bgView.backgroundColor = UIColor.darkGrayColor()
             cell.txtLabel?.text = subHeader[indexPath.row - 1]
         }
 

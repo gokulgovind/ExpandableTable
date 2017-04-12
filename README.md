@@ -1,7 +1,7 @@
 # ExpandableTable
 
-[![License](https://img.shields.io/cocoapods/l/GLNotificationBar.svg?style=flat)](http://cocoapods.org/pods/GLNotificationBar)
-[![Platform](https://img.shields.io/cocoapods/p/GLNotificationBar.svg?style=flat)](http://cocoapods.org/pods/GLNotificationBar)
+[![License](https://img.shields.io/cocoapods/l/ExpandableTable.svg?style=flat)](http://cocoapods.org/pods/ExpandableTable)
+[![Platform](https://img.shields.io/cocoapods/p/ExpandableTable.svg?style=flat)](http://cocoapods.org/pods/ExpandableTable)
 
 
 ![overView](ScreenShots/Demo.png)

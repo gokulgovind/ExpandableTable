@@ -11,6 +11,8 @@ import UIKit
 class SubSubTableViewCell: UITableViewCell {
 
     @IBOutlet weak var txtLabel: UILabel!
+    @IBOutlet weak var bgView: UIView!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
