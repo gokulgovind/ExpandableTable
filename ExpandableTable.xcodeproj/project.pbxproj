@@ -18,6 +18,8 @@
 		801C68B61E335EEB0036623D /* SubTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 801C68B41E335EEB0036623D /* SubTableViewCell.xib */; };
 		801C68B91E335EF80036623D /* SubSubTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 801C68B71E335EF80036623D /* SubSubTableViewCell.swift */; };
 		801C68BA1E335EF80036623D /* SubSubTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 801C68B81E335EF80036623D /* SubSubTableViewCell.xib */; };
+		80A3BF471E9E0CB400ED0911 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 80A3BF461E9E0CB400ED0911 /* LICENSE */; };
+		80A3BF491E9E0CE000ED0911 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 80A3BF481E9E0CE000ED0911 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		801C68B41E335EEB0036623D /* SubTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SubTableViewCell.xib; sourceTree = "<group>"; };
 		801C68B71E335EF80036623D /* SubSubTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubSubTableViewCell.swift; sourceTree = "<group>"; };
 		801C68B81E335EF80036623D /* SubSubTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SubSubTableViewCell.xib; sourceTree = "<group>"; };
+		80A3BF461E9E0CB400ED0911 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		80A3BF481E9E0CE000ED0911 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,8 @@
 			isa = PBXGroup;
 			children = (
 				801C689D1E335DAB0036623D /* AppDelegate.swift */,
+				80A3BF461E9E0CB400ED0911 /* LICENSE */,
+				80A3BF481E9E0CE000ED0911 /* README.md */,
 				80A3BF431E9E051A00ED0911 /* Controlls */,
 				80A3BF441E9E053800ED0911 /* Layout */,
 				80A3BF451E9E055100ED0911 /* Resource */,
@@ -168,6 +174,7 @@
 				801C68A81E335DAB0036623D /* LaunchScreen.storyboard in Resources */,
 				801C68B61E335EEB0036623D /* SubTableViewCell.xib in Resources */,
 				801C68A51E335DAB0036623D /* Assets.xcassets in Resources */,
+				80A3BF471E9E0CB400ED0911 /* LICENSE in Resources */,
 				801C68B21E335EDD0036623D /* MainTableViewCell.xib in Resources */,
 				801C68A31E335DAB0036623D /* Main.storyboard in Resources */,
 				801C68BA1E335EF80036623D /* SubSubTableViewCell.xib in Resources */,
@@ -181,6 +188,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80A3BF491E9E0CE000ED0911 /* README.md in Sources */,
 				801C68A01E335DAB0036623D /* ViewController.swift in Sources */,
 				801C68B91E335EF80036623D /* SubSubTableViewCell.swift in Sources */,
 				801C68B11E335EDD0036623D /* MainTableViewCell.swift in Sources */,
